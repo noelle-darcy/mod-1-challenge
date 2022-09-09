@@ -1,4 +1,4 @@
-# week-1-challenge
+# mod-1-challenge
 
 
 ## Description
